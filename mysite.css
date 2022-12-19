@@ -202,3 +202,21 @@
        -o-background-size: cover;
        background-size: 100% 100%;
 }
+.God
+{
+	width: 25%;
+    height: auto;
+	margin-left: auto;
+    margin-right: auto;
+ 
+	 font-size: 30px;
+	font-family:courier;
+	color: black;
+	
+}
+
+   @font-face {
+    font-family: courier; /* Гарнитура шрифта */
+    src: url(fonts/GODOFWAR.TTF); /* Путь к файлу со шрифтом */
+   
+   }
